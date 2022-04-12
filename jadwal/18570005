@@ -1,0 +1,27 @@
+[
+  {
+    "dosen": "Dr.Brian Jancuk",
+    "email": "Jancuk.Abs@gmail.com",
+    "kode": "MK001",
+    "namaMatkul": "Program Web Berbasis Kepanjangan Teks contoh",
+    "hari": "Senin",
+    "jam": "17:00 - 19:00",
+    "ruangan" : "Ruangan X - Lantai 1",
+    "linkClassroom": "Ini Link Classroom 1",
+    "linkVideoMeet": "Ini Link Video buat Meet 1",
+    "urlAvatar": "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "dosen": "Dr Kumala Sari",
+    "email": "Kumala.Spoon@gmail.com",
+    "kode": "MK002",
+    "namaMatkul": "Program Web 2",
+    "hari": "Senin",
+    "jam": "19:00 - 21:00",
+    "ruangan" : "Ruangan X - Lantai 2",
+    "linkClassroom": "Ini Link Classroom 2",
+    "linkVideoMeet": "Ini Link Video buat Meet 2",
+    "urlAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  }
+  
+]
